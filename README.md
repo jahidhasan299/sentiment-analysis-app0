@@ -19,3 +19,9 @@ This is the second part of this project, where we build the web application usin
 
 # Deploying On Heroku Cloud Service
 This is the last part of the project, where we'll deloy the Django application on Heroku using the connection to github.
+
+# Results
+![Screen Shot 2022-06-28 at 6 37 57 PM](https://user-images.githubusercontent.com/49092540/176159450-592586c9-0783-44dd-ad91-4823eb0e0be4.png)
+![Screen Shot 2022-06-28 at 6 38 33 PM](https://user-images.githubusercontent.com/49092540/176159459-63a593f9-7f21-4dee-bf82-258234dd1a9d.png)
+![Screen Shot 2022-06-28 at 6 38 42 PM](https://user-images.githubusercontent.com/49092540/176159475-6508d619-22d0-40f5-9608-2c7f1d72bc55.png)
+![Screen Shot 2022-06-28 at 6 37 24 PM](https://user-images.githubusercontent.com/49092540/176159494-07cb96ec-ffbd-4d90-bfe6-36f2933acad1.png)
